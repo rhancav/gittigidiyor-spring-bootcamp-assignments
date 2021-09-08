@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/currency-converter-API/currency-converter-API.iml" filepath="$PROJECT_DIR$/currency-converter-API/currency-converter-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/school-management-API/school-management-API.iml" filepath="$PROJECT_DIR$/school-management-API/school-management-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/third-homework-erhancavdar.iml" filepath="$PROJECT_DIR$/.idea/third-homework-erhancavdar.iml" />
+    </modules>
+  </component>
+</project>
