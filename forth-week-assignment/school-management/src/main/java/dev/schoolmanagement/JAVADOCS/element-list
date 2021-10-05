@@ -1,0 +1,12 @@
+dev.schoolmanagement
+dev.schoolmanagement.configuration
+dev.schoolmanagement.controller
+dev.schoolmanagement.DTO
+dev.schoolmanagement.DTO.response
+dev.schoolmanagement.entity
+dev.schoolmanagement.exceptions
+dev.schoolmanagement.mappers
+dev.schoolmanagement.repository
+dev.schoolmanagement.service
+dev.schoolmanagement.service.concrete
+dev.schoolmanagement.utility

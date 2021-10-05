@@ -1,0 +1,32 @@
+
+insert into course (name, course_code, credit_score) values ('Geum macrophyllum Willd.', '#1a8908', 3);
+insert into course (name, course_code, credit_score) values ('Helianthus radula (Pursh) Torr. & A. Gray', '#f2686b', 3);
+insert into course (name, course_code, credit_score) values ('Arrhenatherum elatius (L.) P. Beauv. ex J. Presl & C. Presl var. bulbosum (Willd.) Spenner', '#aa1d18', 5);
+insert into course (name, course_code, credit_score) values ('Camissonia boothii (Douglas ex Lehm.) P.H. Raven ssp. alyssoides (Hook. & Arn.) P.H. Raven', '#bdac38', 3);
+insert into course (name, course_code, credit_score) values ('Ageratina aromatica (L.) Spach var. incisa (A. Gray) C.F. Reed', '#2da036', 5);
+insert into course (name, course_code, credit_score) values ('Polygala hemipterocarpa A. Gray', '#af49ce', 5);
+insert into course (name, course_code, credit_score) values ('Calochortus minimus Ownbey', '#331a73', 2);
+insert into course (name, course_code, credit_score) values ('Dermatocarpon arnoldianum Degel.', '#21f982', 1);
+insert into course (name, course_code, credit_score) values ('Monarda citriodora Cerv. ex Lag. ssp. austromontana (Epling) Scora', '#d483a7', 4);
+insert into course (name, course_code, credit_score) values ('Schiedea kauaiensis H. St. John', '#729c68', 1);
+insert into course (name, course_code, credit_score) values ('Zephyranthes candida (Lindl.) Herb.', '#3cd957', 4);
+insert into course (name, course_code, credit_score) values ('Stenotus lanuginosus (A. Gray) Greene', '#381fa8', 4);
+insert into course (name, course_code, credit_score) values ('Mandragora L.', '#92b0b4', 3);
+insert into course (name, course_code, credit_score) values ('Scleria ciliata Michx. var. ciliata', '#4ff7d0', 3);
+insert into course (name, course_code, credit_score) values ('Artemisia michauxiana Besser', '#120799', 4);
+
+insert into student (gender, name, address, birthday) values ('MALE', 'Cyrtandra ×laevis H. St. John (pro sp.)', '1284 Fallview Drive', '1983-06-04');
+insert into student (gender, name, address, birthday) values ('FEMALE', 'Philonotis fontana (Hedw.) Brid. var. caespitosa (Jur.) Schimp.', '93 Donald Center', '1909-10-10');
+insert into student (gender, name, address, birthday) values ('MALE', 'Chrysactinia mexicana A. Gray', '2596 Banding Crossing', '1961-05-25');
+insert into student (gender, name, address, birthday) values ('FEMALE', 'Silene campanulata S. Watson ssp. greenei (S. Watson) C.L. Hitchc. & Maguire', '175 Harper Drive', '1989-09-11');
+insert into student (gender, name, address, birthday) values ('MALE', 'Ceanothus ×serrulatus McMinn (pro sp.)', '86187 International Park', '1949-12-29');
+insert into student (gender, name, address, birthday) values ('MALE', 'Cakile lanceolata (Willd.) O.E. Schulz ssp. lanceolata', '0 Vidon Crossing', '1932-02-13');
+insert into student (gender, name, address, birthday) values ('FEMALE', 'Saxifraga oppositifolia L. ssp. smalliana (Engl. & Irmsch.) Hultén', '4106 Sugar Plaza', '1945-12-05');
+insert into student (gender, name, address, birthday) values ('FEMALE', 'Philadelphus wootonii Hu', '21736 Victoria Trail', '1927-07-20');
+insert into student (gender, name, address, birthday) values ('MALE', 'Bromus secalinus L.', '561 Merry Drive', '1986-05-31');
+insert into student (gender, name, address, birthday) values ('MALE', 'Acarospora asahinae H. Magn.', '2684 Brown Court', '1964-01-02');
+insert into student (gender, name, address, birthday) values ('FEMALE', 'Scutellaria galericulata L.', '9 Goodland Lane', '1909-12-01');
+insert into student (gender, name, address, birthday) values ('MALE', 'Astragalus cimae M.E. Jones', '25461 Meadow Vale Park', '1984-08-21');
+insert into student (gender, name, address, birthday) values ('FEMALE', 'Poa wheeleri Vasey', '53660 Pepper Wood Point', '1957-10-11');
+insert into student (gender, name, address, birthday) values ('FEMALE', 'Delphinium variegatum Torr. & A. Gray', '83391 Monterey Hill', '1989-05-29');
+insert into student (gender, name, address, birthday) values ('MALE', 'Eutrochium maculatum (L.) E.E. Lamont var. bruneri (A. Gray) E.E. Lamont', '04 Portage Pass', '1962-11-09');
